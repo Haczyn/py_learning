@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "kalkulator", "kalkulator.pyproj", "{49D06E26-EC27-4C35-9651-A288750729EC}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Samolot", "..\Samolot\Samolot.pyproj", "{345C1ED4-161A-4519-8410-CBC85A45F041}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,8 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{49D06E26-EC27-4C35-9651-A288750729EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{49D06E26-EC27-4C35-9651-A288750729EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{345C1ED4-161A-4519-8410-CBC85A45F041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{345C1ED4-161A-4519-8410-CBC85A45F041}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
